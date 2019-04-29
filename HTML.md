@@ -31,12 +31,12 @@ HTML超文本標記語言(**H**yper **T**ext **M**arkup **L**anguage)\
 			</tr>
 		</tbody>
 	</table>
-- 區塊(div)
-被div標籤包起來的區域是被獨立或是切割出來的一部分\
-div標籤通常配合著CSS或是JavaScript一起使用\
--列表(ul、li)
-	`<ul>`是定義無排序的列表
-		
+- 區塊(div)\
+    被div標籤包起來的區域是被獨立或是切割出來的一部分\
+    div標籤通常配合著CSS或是JavaScript一起使用
+- 列表(ul、li)\
+	`<ul>`是無排序規則的列表，像是這篇文章的排序方式
+    >`<li>`則是將要顯示的內容包起來的標籤
 		
 		
 		
