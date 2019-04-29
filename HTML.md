@@ -15,8 +15,21 @@ HTML超文本標記語言(**H**yper **T**ext **M**arkup **L**anguage)\
   - 文字方塊
   - 單/多選項按鈕
 - 表格(table)
-  表格可以把資料用更方正的方式呈現\
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+  表格可以把資料用更方正的方式呈現
+	<table>
+		<thead>
+			<tr>
+				<th>表格上方</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>表格內容</td>
+			</tr>
+			<tr>
+				<td>表格下方</td>
+			</tr>
+		</tbody>
+	</table>
+- 區塊(div)
+	
