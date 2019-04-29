@@ -12,6 +12,6 @@ HTML超文本標記語言(**H**yper **T**ext **M**arkup **L**anguage)\
 - 表單(form)\
   表單用於把使用者輸入的資料收集起來\
   例如:\
-  ```html
-  <input type="text">
-  ```
+    <code>
+        <input type="text" />
+    </code>
