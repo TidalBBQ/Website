@@ -54,28 +54,28 @@ HTML超文本標記語言(**H**yper **T**ext **M**arkup **L**anguage)\
 `<script>...</script>`\
 `<style>...</style`
 ## HTML與XHTML差異
-- XHTML標籤需要有先後順序\
+- XHTML標籤需要有先後順序
 >`<b><i>...</b></i>`\
 >`<b><i>....</i></b>`
-- XHTML標籤必須要成對\
+- XHTML標籤必須要成對
 
 >`<p>...</p>`
-- 空白標籤也需要有結束標籤\
+- 空白標籤也需要有結束標籤
 >`...<br />`
-- XHTML標籤內文字必須小寫\
+- XHTML標籤內文字必須小寫
 >`<p>...</p>`
-- XHTML中必須要擁有一個根標籤(HTML)\
+- XHTML中必須要擁有一個根標籤(HTML)
 >```
 ><html>
 ><head>...</head>
 ><body>...</body>
 ></html>
 >```
-- XHTML屬性名稱必須小寫\
+- XHTML屬性名稱必須小寫
 `<font font-size="10px">`
 - XHTML屬性值必須加上引號\
 `<font font-szie="10px">`
-- XHTML屬性不能簡寫\
+- XHTML屬性不能簡寫
 `<input checked>`\
 `<input checked="checked"`
 - 強制在開頭加上<!DOCTYPE>
